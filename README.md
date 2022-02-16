@@ -1,6 +1,5 @@
-## Olá, me chamo Gustavo Silva, sou desenvolvedor Front-end em construção.. rs
 
-<div align="left">
+<div align="left" style="background-color: lightgray">
   <a href="https://github.com/gustavocrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocrs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocrs&layout=compact&langs_count=7&theme=radical"/>
