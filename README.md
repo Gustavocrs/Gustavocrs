@@ -1,4 +1,4 @@
-<div style="background-color: #000">
+
 <div align="left">
   <a href="https://github.com/gustavocrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocrs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -19,4 +19,4 @@
   <a href="https://www.linkedin.com/in/gustavocrsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gustavocrs.github.io/portfolio/"><img src="https://img.shields.io/badge/%3A.P.%3A-Portfolio-blue" height="28px" target="_blank"></a>
 </div>
-</div>
+
