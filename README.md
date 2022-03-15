@@ -7,9 +7,6 @@
 <div style="display: inline_block"><br>
   <h3>Tecnologias em Curso</h3>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  -Hooks
-  -API's
-  -Rotas
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
   <h3>Tecnologias Conhecidas</h3>
@@ -20,10 +17,11 @@
   
   <h3>Outros Conhecimentos</h3>
   <ul>
-    <li>Flexbox, Grid Layout, SASS </li>
+    <li>React Hooks, API's e Rotas</li>
+    <li>CSS Flexbox, Grid Layout, SASS </li>
+    <li>HTML Semântico e acessível</li>
     <li>SQL e Postgree</li>
     <li>Figma</li>
-    <li>Código semântico</li>
   </ul>
   
   <h3>Certificados</h3>
