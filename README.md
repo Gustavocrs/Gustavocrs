@@ -21,6 +21,7 @@
     <li>React Hooks, API's e Rotas</li>
     <li>CSS Flexbox, Grid Layout, SASS </li>
     <li>HTML Semântico e acessível</li>
+    <li>Git e Github</>
     <li>SQL e Postgree</li>
     <li>Figma</li>
   </ul>
