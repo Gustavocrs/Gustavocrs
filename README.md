@@ -1,9 +1,7 @@
 <div id="sobremim">
  <h3>Sobre mim</h3>
-  Olá! Me chamo <strong>Gustavo Silva</strong>, sou formado em Análise e Desenvolvimento de Sistemas, com ênfase em Desenvolvimento Front-end.
-  
-  Busco diariamente aperfeiçoar meus conhecimentos, seja com pesquisas ou com cursos de especialização, como pode ser visualizado na seção de Certificados.
-  
+  Olá! Me chamo <strong>Gustavo Silva</strong>, sou formado em Análise e Desenvolvimento de Sistemas, com ênfase em Desenvolvimento Front-end.</br>
+  Busco diariamente aperfeiçoar meus conhecimentos, seja com pesquisas ou com cursos de especialização, como pode ser visualizado na seção de Certificados.</br>
   Atualmente, sou gestor em uma empresa do ramo de Metrologia, onde atuo desde 2008, passando por todos os cargos administrativos até o atual, respondendo diretamente a direção.
 </div>
 
