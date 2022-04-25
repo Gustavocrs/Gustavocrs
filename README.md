@@ -1,6 +1,6 @@
 <div id="sobremim">
  <h3>Sobre mim</h3>
-  Olá! Me chamo Gustavo Silva, sou formado em Análise e Desenvolvimento de Sistemas, com ênfase em Desenvolvimento Front-end.
+  Olá! Me chamo <strong>Gustavo Silva</strong>, sou formado em Análise e Desenvolvimento de Sistemas, com ênfase em Desenvolvimento Front-end.
   
   Busco diariamente aperfeiçoar meus conhecimentos, seja com pesquisas ou com cursos de especialização, como pode ser visualizado na seção de Certificados.
   
