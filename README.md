@@ -1,15 +1,15 @@
-Olá! Me chamo Gustavo Silva, sou formado em Análise e Desenvolvimento de Sistemas, com ênfase em Desenvolvimento Front-end.
+<h3>Sobre mim</h3>
+  Olá! Me chamo Gustavo Silva, sou formado em Análise e Desenvolvimento de Sistemas, com ênfase em Desenvolvimento Front-end.
 
 Busco diariamente aperfeiçoar meus conhecimentos, seja com pesquisas ou com cursos de especialização, como pode ser visualizado na seção de Certificados.
 
 Atualmente, sou gestor em uma empresa do ramo de Metrologia, onde atuo desde 2008, passando por todos os cargos administrativos até o atual, respondendo diretamente a direção.
 
-
 <div style="display: inline_block"><br>
   <h3>Tecnologias em Curso</h3>
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Material UI" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg">
+  <img align="center" alt="Material UI" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg">
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg">
   
   <h3>Tecnologias Conhecidas</h3>
@@ -63,9 +63,9 @@ Atualmente, sou gestor em uma empresa do ramo de Metrologia, onde atuo desde 200
   <a href="https://www.linkedin.com/in/gustavocrsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gustavocrs.tech"><img src="https://img.shields.io/badge/%3A.P.%3A-Portfolio-blue" height="28px" target="_blank"></a>
 </div>
-<div align="left">
-  <a href="https://github.com/gustavocrs">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavocrs&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gustavocrs's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavocrs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
+<div align="center">
+  <a href="https://github.com/gustavocrs">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavocrs&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gustavocrs's GitHub stats" /></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavocrs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
