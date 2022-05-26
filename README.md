@@ -16,7 +16,7 @@
   <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  
   <h3>Tecnologias em Curso</h3>
-  <img align="center" alt="Styled Component" height="30" width="40" src="https://external-preview.redd.it/Nm6Ybh7QFPjEEU4ecfhFrtET3ugK4Z2g8DzR5vm409Y.jpg?width=640&crop=smart&auto=webp&s=f76c5519be0b3c0803b990744fcb50597bea1b99">
+  <img align="center" alt="Styled Component" height="30" width="40" src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png">
  
    <h3>Próximas tecnologias na fila de aprendizado</h3>
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
