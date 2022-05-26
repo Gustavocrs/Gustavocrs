@@ -17,12 +17,6 @@
  
   <h3>Tecnologias em Curso</h3>
   <img align="center" alt="Styled Component" height="30" width="40" src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png">
- 
-   <h3>Próximas tecnologias na fila de aprendizado</h3>
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg">
-  <img align="center" alt="Material UI" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg">
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg">
   
   <h3>Outros Conhecimentos</h3>
   <ul>
