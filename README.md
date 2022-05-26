@@ -9,7 +9,6 @@
  
   <h3>Tecnologias Conhecidas</h3>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg">
-  <img align="center" alt="Styled Component" height="30" width="40" src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +16,7 @@
   <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  
   <h3>Tecnologias em Curso</h3>
-  
+  <img align="center" alt="Styled Component" height="30" width="40" src="https://external-preview.redd.it/Nm6Ybh7QFPjEEU4ecfhFrtET3ugK4Z2g8DzR5vm409Y.jpg?width=640&crop=smart&auto=webp&s=f76c5519be0b3c0803b990744fcb50597bea1b99">
  
    <h3>Próximas tecnologias na fila de aprendizado</h3>
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
