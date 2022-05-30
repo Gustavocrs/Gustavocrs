@@ -9,15 +9,13 @@
  
   <h3>Tecnologias Conhecidas</h3>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg">
+  <img align="center" alt="Styled Component" height="30" width="40" src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  
-  <h3>Tecnologias em Curso</h3>
-  <img align="center" alt="Styled Component" height="30" width="40" src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png">
-  
   <h3>Outros Conhecimentos</h3>
   <ul>
     <li>React - Hooks, API's e Rotas</li>
