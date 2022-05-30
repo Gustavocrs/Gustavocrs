@@ -29,7 +29,7 @@
   
   <h3>Certificados</h3>
   <ul>
-    <li>React - Abstraindo seu CSS com Styled Components</li>
+    <li>React - Abstraindo seu CSS com Styled Components - Alura</li>
     <li>React - Ciclo de vida dos componentes - Alura</li>
     <li>React - Entendendo como a biblioteca funciona - Alura</li>
     <li>Mobile First - Layouts Responsivos – Alura</li>
