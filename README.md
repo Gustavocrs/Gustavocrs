@@ -18,7 +18,7 @@
  
   <h3>Outros Conhecimentos</h3>
   <ul>
-    <li>React - Hooks, API's e Rotas</li>
+    <li>React - Hooks, Axios, API's e Rotas</li>
     <li>Styled Components</li>
     <li>CSS Flexbox, Grid Layout, SASS </li>
     <li>HTML Semântico e acessível</li>
