@@ -7,28 +7,34 @@
 
 <div style="display: inline_block">
  
-  <h3>Tecnologias Conhecidas</h3>
+<h3>Tecnologias Conhecidas</h3>
  
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg">
-  <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg">
-  <img align="center" alt="Styled Component" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:318/1*7jRD5QhgARucFKvRHFxpOg.png">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Material UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg">
+<img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg">
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss.svg">
+<img align="center" alt="Styled Component" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:318/1*7jRD5QhgARucFKvRHFxpOg.png">
+<img align="center" alt="Material UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+<img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs.svg">
+<img align="center" alt="ExpressJS" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg">
+<img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb.svg">
+<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker.svg">
+<img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg">
   
  
   <h3>Outros Conhecimentos</h3>
   <ul>
     <li>NextJS, ReactJS - Custom-hooks, Axios, API's e Rotas</li>
-    <li>Styled Components, Material UI, Bootstrap</li>
-    <li>CSS Flexbox, Grid Layout, SASS </li>
+    <li>NodeJS e ExpressJS</li>
+    <li>Tailwind CSS, Styled Components, Material UI, Bootstrap, Flexbox, Grid, SASS </li>
     <li>HTML Semântico e acessível</li>
-    <li>Git e Github</>
-    <li>Postgres e SQL</li>
+    <li>Git e Github</li>
+    <li>Docker</li>
+    <li>MongoDB, Postgres e SQL</li>
     <li>Figma</li>
   </ul>
   
