@@ -24,7 +24,7 @@
 <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg">
 <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg">
 <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg">
-<img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg">
+<img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg">
  
   <h3>Outros Conhecimentos</h3>
   <ul>
